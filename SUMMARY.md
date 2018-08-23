@@ -32,4 +32,5 @@
 * [10. Zookeeper](10.-zookeeper/README.md)
   * [10.1 Zookeeper 介绍](10.-zookeeper/10.1-zookeeper-jie-shao.md)
   * [10.2 zk 使用场景](10.-zookeeper/10.2-zk-shi-yong-chang-jing.md)
+* [11. 配置中心](11.-pei-zhi-zhong-xin.md)
 
